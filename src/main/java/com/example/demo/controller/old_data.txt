@@ -2,7 +2,7 @@
     {
         "itemId":"1|All::All::All::All::All|All::All::All::All::All",
         "title":"Shipment GIV|||MTD",
-        "ratio":125,
+        "ratio":116,
         "proMenuList":
         [
             "Category",
@@ -20,11 +20,11 @@
             "Region"
         ],
         "timegone":0,
-        "dya":237339307.69000000,
+        "dya":276494426.80000,
         "filtersId":"1|All::All::All::All::All|All::All::All::All::All",
         "vTarget":null,
         "dTarget":null,
-        "absolute":1199873571.32,
+        "absolute":2029704199.19,
         "difference":null,
         "monthAbridgeName":null,
         "spilt":null,
@@ -38,7 +38,7 @@
     {
         "itemId":"2|All::All::All::All::All|All::All::All::All::All",
         "title":"Shipment MSU|||MTD",
-        "ratio":132,
+        "ratio":115,
         "proMenuList":
         [
             "Category",
@@ -56,11 +56,11 @@
             "Region"
         ],
         "timegone":0,
-        "dya":1420.12347151,
+        "dya":1253.90980,
         "filtersId":"2|All::All::All::All::All|All::All::All::All::All",
         "vTarget":null,
         "dTarget":null,
-        "absolute":5836.43,
+        "absolute":9501.58,
         "difference":null,
         "monthAbridgeName":null,
         "spilt":null,
@@ -74,7 +74,7 @@
     {
         "itemId":"4|All::All::All::All::All::All|All::All::All::All::All",
         "title":"POS All in|||MTD",
-        "ratio":21,
+        "ratio":116,
         "proMenuList":
         [
             "Category",
@@ -92,12 +92,12 @@
             "Banner",
             "Region"
         ],
-        "timegone":23,
-        "dya":-7107701294.21340000,
+        "timegone":43,
+        "dya":288679078.22720,
         "filtersId":"4|All::All::All::All::All::All|All::All::All::All::All",
         "vTarget":null,
         "dTarget":null,
-        "absolute":1852606414.06,
+        "absolute":2120820638.34,
         "difference":null,
         "monthAbridgeName":null,
         "spilt":null,
@@ -111,7 +111,7 @@
     {
         "itemId":"6|All::All::All::All::All::All|All::All::All::All::All",
         "title":"POS Normalized|||MTD",
-        "ratio":0,
+        "ratio":98,
         "proMenuList":
         [
             "Category",
@@ -129,12 +129,12 @@
             "Banner",
             "Region"
         ],
-        "timegone":23,
-        "dya":-3378705796.03310000,
+        "timegone":43,
+        "dya":-5224160.89560,
         "filtersId":"6|All::All::All::All::All::All|All::All::All::All::All",
         "vTarget":null,
         "dTarget":null,
-        "absolute":0.00,
+        "absolute":287282899.80,
         "difference":null,
         "monthAbridgeName":null,
         "spilt":null,
@@ -144,43 +144,6 @@
         "operateTime":null,
         "type":null,
         "defaultItem":true
-    },
-    {
-        "itemId":"685",
-        "title":"POS Normalized|||MTD",
-        "ratio":0,
-        "proMenuList":
-        [
-            "Category",
-            "Segment",
-            "Brand",
-            "Sub Brand",
-            "Variant",
-            "PriceTier"
-        ],
-        "orgMenuList":
-        [
-            "Channel",
-            "Division",
-            "Market",
-            "Banner",
-            "Region"
-        ],
-        "timegone":23,
-        "dya":-3378705796.03310000,
-        "filtersId":"6|All::All::All::All::All::All|All::All::All::All::All",
-        "vTarget":null,
-        "dTarget":null,
-        "absolute":0.00,
-        "difference":null,
-        "monthAbridgeName":null,
-        "spilt":null,
-        "pspnfPercentDYA":null,
-        "defaultProudctPath":"All::All::All::All::All::All",
-        "defaultOrganizationPath":"All::All::All::All::All",
-        "operateTime":1617160296073,
-        "type":null,
-        "defaultItem":false
     }
 
 ]
