@@ -1,8 +1,8 @@
 [
     {
         "itemId":"1|All::All::All::All::All|All::All::All::All::All",
-        "title":"Shipment GIV|||MTD",
-        "ratio":116,
+        "title":"Shipment GIV|||May",
+        "ratio":105,
         "proMenuList":
         [
             "Category",
@@ -19,12 +19,12 @@
             "Banner",
             "Region"
         ],
-        "timegone":0,
-        "dya":276494426.80000,
+        "timegone":null,
+        "dya":297657848.01000,
         "filtersId":"1|All::All::All::All::All|All::All::All::All::All",
         "vTarget":null,
         "dTarget":null,
-        "absolute":2029704199.19,
+        "absolute":6088571311.67,
         "difference":null,
         "monthAbridgeName":null,
         "spilt":null,
@@ -37,8 +37,8 @@
     },
     {
         "itemId":"2|All::All::All::All::All|All::All::All::All::All",
-        "title":"Shipment MSU|||MTD",
-        "ratio":115,
+        "title":"Shipment MSU|||May",
+        "ratio":102,
         "proMenuList":
         [
             "Category",
@@ -55,12 +55,12 @@
             "Banner",
             "Region"
         ],
-        "timegone":0,
-        "dya":1253.90980,
+        "timegone":null,
+        "dya":496.32877,
         "filtersId":"2|All::All::All::All::All|All::All::All::All::All",
         "vTarget":null,
         "dTarget":null,
-        "absolute":9501.58,
+        "absolute":25377.26,
         "difference":null,
         "monthAbridgeName":null,
         "spilt":null,
@@ -73,44 +73,7 @@
     },
     {
         "itemId":"4|All::All::All::All::All::All|All::All::All::All::All",
-        "title":"POS All in|||MTD",
-        "ratio":116,
-        "proMenuList":
-        [
-            "Category",
-            "Segment",
-            "Brand",
-            "Sub Brand",
-            "Variant",
-            "PriceTier"
-        ],
-        "orgMenuList":
-        [
-            "Channel",
-            "Division",
-            "Market",
-            "Banner",
-            "Region"
-        ],
-        "timegone":43,
-        "dya":288679078.22720,
-        "filtersId":"4|All::All::All::All::All::All|All::All::All::All::All",
-        "vTarget":null,
-        "dTarget":null,
-        "absolute":2120820638.34,
-        "difference":null,
-        "monthAbridgeName":null,
-        "spilt":null,
-        "pspnfPercentDYA":null,
-        "defaultProudctPath":"All::All::All::All::All::All",
-        "defaultOrganizationPath":"All::All::All::All::All",
-        "operateTime":null,
-        "type":null,
-        "defaultItem":true
-    },
-    {
-        "itemId":"6|All::All::All::All::All::All|All::All::All::All::All",
-        "title":"POS Normalized|||MTD",
+        "title":"POS All in|||May",
         "ratio":98,
         "proMenuList":
         [
@@ -129,12 +92,49 @@
             "Banner",
             "Region"
         ],
-        "timegone":43,
-        "dya":-5224160.89560,
+        "timegone":null,
+        "dya":-55979197.55860,
+        "filtersId":"4|All::All::All::All::All::All|All::All::All::All::All",
+        "vTarget":null,
+        "dTarget":null,
+        "absolute":2293981292.48,
+        "difference":null,
+        "monthAbridgeName":null,
+        "spilt":null,
+        "pspnfPercentDYA":null,
+        "defaultProudctPath":"All::All::All::All::All::All",
+        "defaultOrganizationPath":"All::All::All::All::All",
+        "operateTime":null,
+        "type":null,
+        "defaultItem":true
+    },
+    {
+        "itemId":"6|All::All::All::All::All::All|All::All::All::All::All",
+        "title":"POS Normalized|||May",
+        "ratio":100,
+        "proMenuList":
+        [
+            "Category",
+            "Segment",
+            "Brand",
+            "Sub Brand",
+            "Variant",
+            "PriceTier"
+        ],
+        "orgMenuList":
+        [
+            "Channel",
+            "Division",
+            "Market",
+            "Banner",
+            "Region"
+        ],
+        "timegone":null,
+        "dya":0.00000,
         "filtersId":"6|All::All::All::All::All::All|All::All::All::All::All",
         "vTarget":null,
         "dTarget":null,
-        "absolute":287282899.80,
+        "absolute":717928807.94,
         "difference":null,
         "monthAbridgeName":null,
         "spilt":null,
